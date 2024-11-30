@@ -10,7 +10,7 @@ const App = () => {
    <div>
         <Navigation />
     </div>
-    <div className="h-screen">
+    <div className="h-screen w-full">
       <VideoBackground
         videoSrc={cyberpunkVideo}
         overlayColor="rgba(0, 0, 0, 0.5)"
